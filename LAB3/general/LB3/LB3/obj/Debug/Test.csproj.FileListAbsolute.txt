@@ -1,0 +1,10 @@
+C:\Users\kszot\source\repos\LB3\LB3\bin\Debug\Start.exe.config
+C:\Users\kszot\source\repos\LB3\LB3\bin\Debug\Start.exe
+C:\Users\kszot\source\repos\LB3\LB3\bin\Debug\Start.pdb
+C:\Users\kszot\source\repos\LB3\LB3\obj\Debug\LB3.StudName.Properties.Resources.resources
+C:\Users\kszot\source\repos\LB3\LB3\obj\Debug\LB3.StudName.Start.resources
+C:\Users\kszot\source\repos\LB3\LB3\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\kszot\source\repos\LB3\LB3\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\kszot\source\repos\LB3\LB3\obj\Debug\Start.exe
+C:\Users\kszot\source\repos\LB3\LB3\obj\Debug\Start.pdb
+C:\Users\kszot\source\repos\LB3\LB3\obj\Debug\Test.csprojAssemblyReference.cache
