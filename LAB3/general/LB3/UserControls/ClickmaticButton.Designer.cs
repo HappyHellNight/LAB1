@@ -42,6 +42,6 @@ namespace LB3.StudName
 
         #endregion
 
-        private System.Windows.Forms.Timer timer;
+        public System.Windows.Forms.Timer timer;
     }
 }
