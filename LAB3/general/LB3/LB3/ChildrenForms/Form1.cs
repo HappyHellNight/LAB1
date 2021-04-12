@@ -16,5 +16,14 @@ namespace LB3.StudName
         {
             InitializeComponent();
         }
+
+        private void btnClickGen_Click(object sender, EventArgs e)
+        {
+            int tickCount;
+            if (!Int32.TryParse(lblTickCount.Text, out tickCount)) tickCount = 1; // При некорректном преобразовании
+            else
+                tickCount++;    // При корректоном преобразовании увеличить на 1
+            lblTickCount.Text = tickCount.ToString();
+        }
     }
 }

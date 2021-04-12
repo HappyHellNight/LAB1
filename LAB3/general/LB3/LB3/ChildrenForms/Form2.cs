@@ -15,6 +15,10 @@ namespace LB3.StudName
         public Form2()
         {
             InitializeComponent();
+                arrowButton1.ScrollButton = ScrollButton.Right;
+                arrowButton2.ScrollButton = ScrollButton.Left;
+                arrowButton3.ScrollButton = ScrollButton.Up;
+                arrowButton4.ScrollButton = ScrollButton.Down;
         }
     }
 }

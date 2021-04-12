@@ -8,3 +8,19 @@ C:\Users\kszot\source\repos\LB3\LB3\obj\Debug\Test.csproj.CoreCompileInputs.cach
 C:\Users\kszot\source\repos\LB3\LB3\obj\Debug\Start.exe
 C:\Users\kszot\source\repos\LB3\LB3\obj\Debug\Start.pdb
 C:\Users\kszot\source\repos\LB3\LB3\obj\Debug\Test.csprojAssemblyReference.cache
+D:\Для института\3 курс\6 семестр\оспо\LAB3\general\LB3\LB3\bin\Debug\Start.exe.config
+D:\Для института\3 курс\6 семестр\оспо\LAB3\general\LB3\LB3\bin\Debug\Start.exe
+D:\Для института\3 курс\6 семестр\оспо\LAB3\general\LB3\LB3\bin\Debug\Start.pdb
+D:\Для института\3 курс\6 семестр\оспо\LAB3\general\LB3\LB3\bin\Debug\UserControls.dll
+D:\Для института\3 курс\6 семестр\оспо\LAB3\general\LB3\LB3\bin\Debug\UserControls.pdb
+D:\Для института\3 курс\6 семестр\оспо\LAB3\general\LB3\LB3\bin\Debug\UserControls.dll.config
+D:\Для института\3 курс\6 семестр\оспо\LAB3\general\LB3\LB3\obj\Debug\Test.csprojAssemblyReference.cache
+D:\Для института\3 курс\6 семестр\оспо\LAB3\general\LB3\LB3\obj\Debug\LB3.StudName.Form1.resources
+D:\Для института\3 курс\6 семестр\оспо\LAB3\general\LB3\LB3\obj\Debug\LB3.StudName.Properties.Resources.resources
+D:\Для института\3 курс\6 семестр\оспо\LAB3\general\LB3\LB3\obj\Debug\LB3.StudName.Start.resources
+D:\Для института\3 курс\6 семестр\оспо\LAB3\general\LB3\LB3\obj\Debug\Test.csproj.GenerateResource.cache
+D:\Для института\3 курс\6 семестр\оспо\LAB3\general\LB3\LB3\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Для института\3 курс\6 семестр\оспо\LAB3\general\LB3\LB3\obj\Debug\Test.csproj.CopyComplete
+D:\Для института\3 курс\6 семестр\оспо\LAB3\general\LB3\LB3\obj\Debug\Start.exe
+D:\Для института\3 курс\6 семестр\оспо\LAB3\general\LB3\LB3\obj\Debug\Start.pdb
+D:\Для института\3 курс\6 семестр\оспо\LAB3\general\LB3\LB3\obj\Debug\LB3.StudName.Form2.resources

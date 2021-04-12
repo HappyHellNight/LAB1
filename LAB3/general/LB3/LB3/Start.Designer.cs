@@ -37,7 +37,7 @@ namespace LB3.StudName
             // Form1
             // 
             this.Form1.AutoSize = true;
-            this.Form1.Location = new System.Drawing.Point(91, 53);
+            this.Form1.Location = new System.Drawing.Point(94, 63);
             this.Form1.Name = "Form1";
             this.Form1.Size = new System.Drawing.Size(213, 17);
             this.Form1.TabIndex = 0;
@@ -49,7 +49,7 @@ namespace LB3.StudName
             // Form2
             // 
             this.Form2.AutoSize = true;
-            this.Form2.Location = new System.Drawing.Point(94, 115);
+            this.Form2.Location = new System.Drawing.Point(94, 123);
             this.Form2.Name = "Form2";
             this.Form2.Size = new System.Drawing.Size(187, 17);
             this.Form2.TabIndex = 1;
@@ -61,7 +61,7 @@ namespace LB3.StudName
             // Form3
             // 
             this.Form3.AutoSize = true;
-            this.Form3.Location = new System.Drawing.Point(94, 178);
+            this.Form3.Location = new System.Drawing.Point(94, 186);
             this.Form3.Name = "Form3";
             this.Form3.Size = new System.Drawing.Size(194, 17);
             this.Form3.TabIndex = 2;
@@ -74,7 +74,7 @@ namespace LB3.StudName
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(382, 283);
             this.Controls.Add(this.Form3);
             this.Controls.Add(this.Form2);
             this.Controls.Add(this.Form1);

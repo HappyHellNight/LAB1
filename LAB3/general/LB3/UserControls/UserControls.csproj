@@ -39,11 +39,23 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ArrowButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ArrowButton.Designer.cs">
+      <DependentUpon>ArrowButton.cs</DependentUpon>
+    </Compile>
     <Compile Include="ClickmaticButton.cs">
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="ClickmaticButton.Designer.cs">
       <DependentUpon>ClickmaticButton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NumericScan.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="NumericScan.Designer.cs">
+      <DependentUpon>NumericScan.cs</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
@@ -54,6 +66,9 @@
   <ItemGroup>
     <EmbeddedResource Include="ClickmaticButton.resx">
       <DependentUpon>ClickmaticButton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NumericScan.resx">
+      <DependentUpon>NumericScan.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
