@@ -16,3 +16,13 @@ D:\Для института\3 курс\6 семестр\оспо\LAB3\general\L
 D:\Для института\3 курс\6 семестр\оспо\LAB3\general\LB3\UserControls\obj\Debug\UserControls.dll
 D:\Для института\3 курс\6 семестр\оспо\LAB3\general\LB3\UserControls\obj\Debug\UserControls.pdb
 D:\Для института\3 курс\6 семестр\оспо\LAB3\general\LB3\UserControls\obj\Debug\LB3.StudName.NumericScan.resources
+D:\LAB1\LAB3\general\LB3\UserControls\bin\Debug\UserControls.dll.config
+D:\LAB1\LAB3\general\LB3\UserControls\bin\Debug\UserControls.dll
+D:\LAB1\LAB3\general\LB3\UserControls\bin\Debug\UserControls.pdb
+D:\LAB1\LAB3\general\LB3\UserControls\obj\Debug\UserControls.csprojAssemblyReference.cache
+D:\LAB1\LAB3\general\LB3\UserControls\obj\Debug\LB3.StudName.ClickmaticButton.resources
+D:\LAB1\LAB3\general\LB3\UserControls\obj\Debug\LB3.StudName.NumericScan.resources
+D:\LAB1\LAB3\general\LB3\UserControls\obj\Debug\UserControls.csproj.GenerateResource.cache
+D:\LAB1\LAB3\general\LB3\UserControls\obj\Debug\UserControls.csproj.CoreCompileInputs.cache
+D:\LAB1\LAB3\general\LB3\UserControls\obj\Debug\UserControls.dll
+D:\LAB1\LAB3\general\LB3\UserControls\obj\Debug\UserControls.pdb

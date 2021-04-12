@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
-using System.Diagnostics;
+using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace LB3.StudName
 {
-    public partial class NumericScan : ArrowButton
+    public partial class NumericScan : UserControl
     {
         // Объявили базовые закрытые поля для открытых свойств
         int iDecimalPlaces = 0; // Количество знаков после запятой
@@ -41,7 +41,7 @@ namespace LB3.StudName
             set
             {
                 // Контроль нижней границы диапазона
-                if (Value < (mMinimum = value)) 
+                if (Value < (mMinimum = value))
                     Value = mMinimum;
             }
         }
@@ -65,8 +65,8 @@ namespace LB3.StudName
           txtBox.PreferredHeight +
           SystemInformation.HorizontalScrollBarHeight);
         }
-         protected override void OnResize(EventArgs e)
-         {
+        protected override void OnResize(EventArgs e)
+        {
             base.OnResize(e);
 
             txtBox.Location = new Point(0, 0); // В левом верхнем углу
@@ -75,7 +75,7 @@ namespace LB3.StudName
             btnRight.Location = new Point(this.Width / 2, txtBox.Height);// Позиция
             btnLeft.Size = btnRight.Size = new Size(this.Width / 2,
             this.Height - txtBox.Height); // Одинаковый размер
-         }
+        }
         public event EventHandler ValueChanged;
 
         // Ввели свою функцию диспетчеризации события ValueChanged
@@ -109,14 +109,14 @@ namespace LB3.StudName
         private void TextBoxOnTextChanged(object sender, EventArgs e)
         {
             if (txtBox.Text.Length == 0) return;
-        // При неудачной попытке преобразования восстанавливаем старое
+            // При неудачной попытке преобразования восстанавливаем старое
             decimal tmpValue;
-         if (!Decimal.TryParse(txtBox.Text, out tmpValue)) txtBox.Text = mValue.ToString();
-         else        
-            mValue = tmpValue;
+            if (!Decimal.TryParse(txtBox.Text, out tmpValue)) txtBox.Text = mValue.ToString();
+            else
+                mValue = tmpValue;
         }
 
-    private void TextBoxOnKeyDown(object sender, System.Windows.Forms.KeyEventArgs e)
+        private void TextBoxOnKeyDown(object sender, System.Windows.Forms.KeyEventArgs e)
         {
             switch (e.KeyCode)
             {
@@ -151,6 +151,5 @@ namespace LB3.StudName
             // Возбуждаем событие и обновление состояния компонента
             OnValueChanged(EventArgs.Empty);
         }
-
     }
 }

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using LB3.StudName.ChildrenForms;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -90,7 +91,7 @@ namespace LB3.StudName
                         frm = new Form2();
                         break;
                     case "Form3":
-                        //frm = new Form3();
+                        frm = new Form3();
                         break;
                 }
                 this.AddOwnedForm(frm);
