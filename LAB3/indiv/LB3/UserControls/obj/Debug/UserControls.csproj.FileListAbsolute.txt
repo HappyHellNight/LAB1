@@ -1,0 +1,38 @@
+C:\Users\kszot\source\repos\LB3\UserControls\obj\Debug\LB3.StudName.ClickmaticButton.resources
+C:\Users\kszot\source\repos\LB3\UserControls\obj\Debug\UserControls.csproj.GenerateResource.cache
+C:\Users\kszot\source\repos\LB3\UserControls\obj\Debug\UserControls.csproj.CoreCompileInputs.cache
+C:\Users\kszot\source\repos\LB3\UserControls\bin\Debug\UserControls.dll.config
+C:\Users\kszot\source\repos\LB3\UserControls\bin\Debug\UserControls.dll
+C:\Users\kszot\source\repos\LB3\UserControls\bin\Debug\UserControls.pdb
+C:\Users\kszot\source\repos\LB3\UserControls\obj\Debug\UserControls.dll
+C:\Users\kszot\source\repos\LB3\UserControls\obj\Debug\UserControls.pdb
+D:\Для института\3 курс\6 семестр\оспо\LAB3\general\LB3\UserControls\bin\Debug\UserControls.dll.config
+D:\Для института\3 курс\6 семестр\оспо\LAB3\general\LB3\UserControls\bin\Debug\UserControls.dll
+D:\Для института\3 курс\6 семестр\оспо\LAB3\general\LB3\UserControls\bin\Debug\UserControls.pdb
+D:\Для института\3 курс\6 семестр\оспо\LAB3\general\LB3\UserControls\obj\Debug\UserControls.csprojAssemblyReference.cache
+D:\Для института\3 курс\6 семестр\оспо\LAB3\general\LB3\UserControls\obj\Debug\LB3.StudName.ClickmaticButton.resources
+D:\Для института\3 курс\6 семестр\оспо\LAB3\general\LB3\UserControls\obj\Debug\UserControls.csproj.GenerateResource.cache
+D:\Для института\3 курс\6 семестр\оспо\LAB3\general\LB3\UserControls\obj\Debug\UserControls.csproj.CoreCompileInputs.cache
+D:\Для института\3 курс\6 семестр\оспо\LAB3\general\LB3\UserControls\obj\Debug\UserControls.dll
+D:\Для института\3 курс\6 семестр\оспо\LAB3\general\LB3\UserControls\obj\Debug\UserControls.pdb
+D:\Для института\3 курс\6 семестр\оспо\LAB3\general\LB3\UserControls\obj\Debug\LB3.StudName.NumericScan.resources
+D:\LAB1\LAB3\general\LB3\UserControls\bin\Debug\UserControls.dll.config
+D:\LAB1\LAB3\general\LB3\UserControls\bin\Debug\UserControls.dll
+D:\LAB1\LAB3\general\LB3\UserControls\bin\Debug\UserControls.pdb
+D:\LAB1\LAB3\general\LB3\UserControls\obj\Debug\UserControls.csprojAssemblyReference.cache
+D:\LAB1\LAB3\general\LB3\UserControls\obj\Debug\LB3.StudName.ClickmaticButton.resources
+D:\LAB1\LAB3\general\LB3\UserControls\obj\Debug\LB3.StudName.NumericScan.resources
+D:\LAB1\LAB3\general\LB3\UserControls\obj\Debug\UserControls.csproj.GenerateResource.cache
+D:\LAB1\LAB3\general\LB3\UserControls\obj\Debug\UserControls.csproj.CoreCompileInputs.cache
+D:\LAB1\LAB3\general\LB3\UserControls\obj\Debug\UserControls.dll
+D:\LAB1\LAB3\general\LB3\UserControls\obj\Debug\UserControls.pdb
+D:\Для института\3 курс\6 семестр\оспо\LAB3\indiv\LB3\UserControls\bin\Debug\UserControls.dll.config
+D:\Для института\3 курс\6 семестр\оспо\LAB3\indiv\LB3\UserControls\bin\Debug\UserControls.dll
+D:\Для института\3 курс\6 семестр\оспо\LAB3\indiv\LB3\UserControls\bin\Debug\UserControls.pdb
+D:\Для института\3 курс\6 семестр\оспо\LAB3\indiv\LB3\UserControls\obj\Debug\UserControls.csprojAssemblyReference.cache
+D:\Для института\3 курс\6 семестр\оспо\LAB3\indiv\LB3\UserControls\obj\Debug\LB3.StudName.ClickmaticButton.resources
+D:\Для института\3 курс\6 семестр\оспо\LAB3\indiv\LB3\UserControls\obj\Debug\LB3.StudName.NumericScan.resources
+D:\Для института\3 курс\6 семестр\оспо\LAB3\indiv\LB3\UserControls\obj\Debug\UserControls.csproj.GenerateResource.cache
+D:\Для института\3 курс\6 семестр\оспо\LAB3\indiv\LB3\UserControls\obj\Debug\UserControls.csproj.CoreCompileInputs.cache
+D:\Для института\3 курс\6 семестр\оспо\LAB3\indiv\LB3\UserControls\obj\Debug\UserControls.dll
+D:\Для института\3 курс\6 семестр\оспо\LAB3\indiv\LB3\UserControls\obj\Debug\UserControls.pdb

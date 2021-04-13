@@ -41,3 +41,4 @@ D:\LAB1\LAB3\general\LB3\LB3\bin\Debug\UserControls.dll
 D:\LAB1\LAB3\general\LB3\LB3\bin\Debug\UserControls.pdb
 D:\LAB1\LAB3\general\LB3\LB3\bin\Debug\UserControls.dll.config
 D:\LAB1\LAB3\general\LB3\LB3\obj\Debug\Test.csproj.CopyComplete
+D:\Для института\3 курс\6 семестр\оспо\LAB3\general\LB3\LB3\obj\Debug\LB3.StudName.ChildrenForms.Form3.resources
