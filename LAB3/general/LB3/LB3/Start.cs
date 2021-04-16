@@ -13,6 +13,7 @@ namespace LB3.StudName
 {
     public partial class Start : Form
     {
+        Form frm;
         // Массив сообщений всплывающих подсказок для LinkLabel
         String[] strTips =
         {
@@ -24,13 +25,13 @@ namespace LB3.StudName
         "поля со счетчиком"
         };
 
-    // Массив ссылок для объектов всплывающих подсказок
-    ToolTip[] tips =
-    {
-            new ToolTip(),
-            new ToolTip(),
-            new ToolTip()
-    };
+        // Массив ссылок для объектов всплывающих подсказок
+        ToolTip[] tips =
+        {
+                new ToolTip(),
+                new ToolTip(),
+                new ToolTip()
+        };
 
         public Start()
         {
@@ -47,12 +48,10 @@ namespace LB3.StudName
                 tips[i].IsBalloon = true;// Использовать окно подсказки
                 tips[i].ToolTipIcon = ToolTipIcon.Info;// Иконки
                 tips[i].ToolTipTitle = "Упражнение " + (i + 1); //Заголовок
-                tips[i].ForeColor = Color.Magenta; // Цвет текста
-                tips[i].BackColor = Color.LightGoldenrodYellow; // Цвет фона
-
+                tips[i].ForeColor = Color.Red; // Цвет текста
+                tips[i].BackColor = Color.Red; // Цвет фона
             }
         }
-            Form frm;
         private void Start_Load(object sender, EventArgs e)
         {
 

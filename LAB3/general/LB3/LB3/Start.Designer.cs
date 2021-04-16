@@ -37,9 +37,10 @@ namespace LB3.StudName
             // Form1
             // 
             this.Form1.AutoSize = true;
-            this.Form1.Location = new System.Drawing.Point(94, 63);
+            this.Form1.Location = new System.Drawing.Point(70, 51);
+            this.Form1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.Form1.Name = "Form1";
-            this.Form1.Size = new System.Drawing.Size(213, 17);
+            this.Form1.Size = new System.Drawing.Size(165, 13);
             this.Form1.TabIndex = 0;
             this.Form1.TabStop = true;
             this.Form1.Tag = "Form1";
@@ -49,9 +50,10 @@ namespace LB3.StudName
             // Form2
             // 
             this.Form2.AutoSize = true;
-            this.Form2.Location = new System.Drawing.Point(94, 123);
+            this.Form2.Location = new System.Drawing.Point(70, 100);
+            this.Form2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.Form2.Name = "Form2";
-            this.Form2.Size = new System.Drawing.Size(187, 17);
+            this.Form2.Size = new System.Drawing.Size(144, 13);
             this.Form2.TabIndex = 1;
             this.Form2.TabStop = true;
             this.Form2.Tag = "Form2";
@@ -61,9 +63,10 @@ namespace LB3.StudName
             // Form3
             // 
             this.Form3.AutoSize = true;
-            this.Form3.Location = new System.Drawing.Point(94, 186);
+            this.Form3.Location = new System.Drawing.Point(70, 151);
+            this.Form3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.Form3.Name = "Form3";
-            this.Form3.Size = new System.Drawing.Size(194, 17);
+            this.Form3.Size = new System.Drawing.Size(150, 13);
             this.Form3.TabIndex = 2;
             this.Form3.TabStop = true;
             this.Form3.Tag = "Form3";
@@ -72,13 +75,14 @@ namespace LB3.StudName
             // 
             // Start
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(382, 283);
+            this.ClientSize = new System.Drawing.Size(286, 230);
             this.Controls.Add(this.Form3);
             this.Controls.Add(this.Form2);
             this.Controls.Add(this.Form1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Start";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Lab3.StudentName";

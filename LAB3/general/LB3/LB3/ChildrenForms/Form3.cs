@@ -27,6 +27,8 @@ namespace LB3.StudName.ChildrenForms
         private void NumericScanOnValueChanged(object sender, EventArgs e)
         {
             label1.Text = "Первый: " + numericScan1.Value + "; Второй: " + numericScan2.Value;
+            //Для индивидуалки 11
+            label2.Text = "Произведение :" + (numericScan1.Value * numericScan2.Value);
         }
 
     }

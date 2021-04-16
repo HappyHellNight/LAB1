@@ -37,7 +37,7 @@ namespace LB3.StudName
             // 
             // txtBox
             // 
-            this.txtBox.Location = new System.Drawing.Point(67, 38);
+            this.txtBox.Location = new System.Drawing.Point(103, 73);
             this.txtBox.Name = "txtBox";
             this.txtBox.Size = new System.Drawing.Size(112, 20);
             this.txtBox.TabIndex = 2;
@@ -47,35 +47,38 @@ namespace LB3.StudName
             // 
             // btnRight
             // 
-            this.btnRight.Location = new System.Drawing.Point(156, 84);
+            this.btnRight.BackColor = System.Drawing.Color.Red;
+            this.btnRight.Location = new System.Drawing.Point(221, 70);
             this.btnRight.Name = "btnRight";
             this.btnRight.ScrollButton = System.Windows.Forms.ScrollButton.Right;
             this.btnRight.Size = new System.Drawing.Size(75, 23);
             this.btnRight.TabIndex = 1;
             this.btnRight.Text = "arrowButton2";
-            this.btnRight.UseVisualStyleBackColor = true;
+            this.btnRight.UseVisualStyleBackColor = false;
             this.btnRight.Click += new System.EventHandler(this.ButtonOnClick);
             // 
             // btnLeft
             // 
-            this.btnLeft.Location = new System.Drawing.Point(22, 84);
+            this.btnLeft.BackColor = System.Drawing.Color.BlanchedAlmond;
+            this.btnLeft.ForeColor = System.Drawing.Color.Navy;
+            this.btnLeft.Location = new System.Drawing.Point(22, 70);
             this.btnLeft.Name = "btnLeft";
             this.btnLeft.ScrollButton = System.Windows.Forms.ScrollButton.Left;
             this.btnLeft.Size = new System.Drawing.Size(75, 23);
             this.btnLeft.TabIndex = 0;
             this.btnLeft.Text = "arrowButton1";
-            this.btnLeft.UseVisualStyleBackColor = true;
+            this.btnLeft.UseVisualStyleBackColor = false;
             this.btnLeft.Click += new System.EventHandler(this.ButtonOnClick);
             // 
             // NumericScan
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Controls.Add(this.txtBox);
             this.Controls.Add(this.btnRight);
+            this.Controls.Add(this.txtBox);
             this.Controls.Add(this.btnLeft);
             this.Name = "NumericScan";
-            this.Size = new System.Drawing.Size(263, 141);
+            this.Size = new System.Drawing.Size(350, 141);
             this.ResumeLayout(false);
             this.PerformLayout();
 

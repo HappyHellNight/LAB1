@@ -39,9 +39,10 @@ namespace LB3.StudName
             // btnClickGen
             // 
             this.btnClickGen.AutoSize = true;
-            this.btnClickGen.Location = new System.Drawing.Point(163, 155);
+            this.btnClickGen.Location = new System.Drawing.Point(122, 126);
+            this.btnClickGen.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnClickGen.Name = "btnClickGen";
-            this.btnClickGen.Size = new System.Drawing.Size(75, 27);
+            this.btnClickGen.Size = new System.Drawing.Size(60, 23);
             this.btnClickGen.TabIndex = 0;
             this.btnClickGen.Text = "ClickGen";
             this.btnClickGen.UseVisualStyleBackColor = true;
@@ -50,18 +51,20 @@ namespace LB3.StudName
             // lblTickCount
             // 
             this.lblTickCount.AutoSize = true;
-            this.lblTickCount.Location = new System.Drawing.Point(124, 81);
+            this.lblTickCount.Location = new System.Drawing.Point(93, 66);
+            this.lblTickCount.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblTickCount.Name = "lblTickCount";
-            this.lblTickCount.Size = new System.Drawing.Size(46, 17);
+            this.lblTickCount.Size = new System.Drawing.Size(35, 13);
             this.lblTickCount.TabIndex = 1;
             this.lblTickCount.Text = "label1";
             // 
             // button1
             // 
             this.button1.AutoSize = true;
-            this.button1.Location = new System.Drawing.Point(48, 155);
+            this.button1.Location = new System.Drawing.Point(36, 126);
+            this.button1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(82, 27);
+            this.button1.Size = new System.Drawing.Size(62, 23);
             this.button1.TabIndex = 2;
             this.button1.Text = "Simple";
             this.button1.UseVisualStyleBackColor = true;
@@ -69,12 +72,13 @@ namespace LB3.StudName
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(282, 253);
+            this.ClientSize = new System.Drawing.Size(212, 206);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.lblTickCount);
             this.Controls.Add(this.btnClickGen);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";

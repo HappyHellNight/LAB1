@@ -31,6 +31,7 @@ namespace LB3.StudName.ChildrenForms
         {
             this.components = new System.ComponentModel.Container();
             this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
             this.numericScan2 = new LB3.StudName.NumericScan(this.components);
             this.numericScan1 = new LB3.StudName.NumericScan(this.components);
             this.SuspendLayout();
@@ -44,6 +45,15 @@ namespace LB3.StudName.ChildrenForms
             this.label1.TabIndex = 2;
             this.label1.Text = "label1";
             this.label1.TextChanged += new System.EventHandler(this.NumericScanOnValueChanged);
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(172, 73);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(105, 13);
+            this.label2.TabIndex = 3;
+            this.label2.Text = "Произведение 0.00";
             // 
             // numericScan2
             // 
@@ -108,10 +118,11 @@ namespace LB3.StudName.ChildrenForms
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(406, 191);
+            this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.numericScan2);
             this.Controls.Add(this.numericScan1);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form3";
             this.Text = "Form3";
             this.Load += new System.EventHandler(this.Form3_Load);
@@ -125,5 +136,6 @@ namespace LB3.StudName.ChildrenForms
         private NumericScan numericScan1;
         private NumericScan numericScan2;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label2;
     }
 }

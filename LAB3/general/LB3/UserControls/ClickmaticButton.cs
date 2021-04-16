@@ -20,7 +20,6 @@ namespace LB3.StudName
         public ClickmaticButton(IContainer container)
         {
             container.Add(this);
-
             InitializeComponent();
         }
         // Поля характеристик работы таймера
